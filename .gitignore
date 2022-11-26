@@ -2,9 +2,14 @@
 *.log
 .idea/
 .idea
+ml-1m/
+ml-100k/
+ml-1m
+ml-100k
 # ignore ALL files in ANY directory named temp
 temp/
-ml/
+ML ENVIRONMENT/
+ML ENVIRONMENT
 .ipynb_checkpoints/
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,pycharm,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,pycharm,visualstudiocode
