@@ -1,3 +1,6 @@
+''' this script will randomly slect 5 photos and from every photo
+it will generate and save 7 photos with 7 preprocessing like brightness, shadow, blur,gamma '''
+
 import cv2
 import os
 import random
